@@ -1,0 +1,6 @@
+{
+  "name": "Rômulo Santana - Pintura Residencial e Comercial",
+  "description": "Site oficial de Rômulo Santana Pintor em Serra - ES, com simulador interativo 3D para fachadas residenciais, fachadas comerciais e ambientes internos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
