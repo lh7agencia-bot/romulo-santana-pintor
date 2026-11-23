@@ -130,12 +130,12 @@ export function GallerySection() {
               <X className="h-5 w-5" />
             </button>
 
-            <div className="aspect-[4/3] w-full bg-slate-100">
+            <div className="flex max-h-[70vh] w-full items-center justify-center bg-slate-900">
               <img
                 src={activeItem.image}
                 alt={activeItem.alt}
                 referrerPolicy="no-referrer"
-                className="h-full w-full object-cover"
+                className="max-h-[70vh] w-auto max-w-full object-contain"
               />
             </div>
 

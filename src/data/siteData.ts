@@ -77,7 +77,7 @@ export function buildWhatsAppUrl(message: string): string {
 }
 
 export const HERO_IMAGE = {
-  src: '/src/assets/images/hero_fachada_residencial_1795457907004.jpg',
+  src: '/src/assets/images/obra-4.jpg',
   alt: 'Fachada residencial moderna pintada por Rômulo Santana em acabamento acrílico e tom terroso',
   captionTitle: 'Obra Executada · Pintura Externa e Fachada',
   captionSubtitle: 'Proteção climática e precisão nos recortes arquitetônicos',
@@ -259,7 +259,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     category: 'Residencial',
     title: 'Pintura de Fachada Residencial Moderna',
     subtitle: 'Fachada em dois pavimentos · Acabamento texturizado e acrílico',
-    image: '/src/assets/images/galeria_fachada_moderna_1795457907286.jpg',
+    image: '/src/assets/images/obra-4.jpg',
     alt: 'Pintura de Fachada Residencial Moderna',
   },
   {
@@ -267,7 +267,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     category: 'Comercial',
     title: 'Pintura de Fachada Comercial em Shopping',
     subtitle: 'Loja comercial · Acabamento preto fosco de alto padrão',
-    image: '/src/assets/images/galeria_fachada_comercial_1795457907700.jpg',
+    image: '/src/assets/images/obra-3.jpg',
     alt: 'Pintura de Fachada Comercial em Shopping',
   },
   {
@@ -275,7 +275,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     category: 'Residencial',
     title: 'Acabamento Externo e Molduras Arquitetônicas',
     subtitle: 'Área externa e pergolado · Cinza contemporâneo',
-    image: '/src/assets/images/galeria_molduras_externas_1795457909097.jpg',
+    image: '/src/assets/images/obra-1.jpg',
     alt: 'Acabamento Externo e Molduras Arquitetônicas',
   },
   {
@@ -283,7 +283,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     category: 'Residencial',
     title: 'Pintura Interna de Sala e Cozinha Integrada',
     subtitle: 'Ambiente interno · Preparação e demãos de acabamento',
-    image: '/src/assets/images/galeria_sala_integrada_1795457908454.jpg',
+    image: '/src/assets/images/obra-2.jpg',
     alt: 'Pintura Interna de Sala e Cozinha Integrada',
   },
 ];
